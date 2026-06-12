@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "notes": "4-key WASD layout macropad",
+    "documentation": "https://qmk.fm",
+    "keyboard": "wasd_pad",
+    "keymap": "default",
+    "layout": "LAYOUT_wasd",
+    "layers": [
+        [
+            "KC_W",
+            "KC_A",
+            "KC_S",
+            "KC_D"
+        ]
+    ]
+}
